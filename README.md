@@ -1,11 +1,13 @@
 # Hey I'm Syed 👋
 
-
-- 🔭 Currently working on **[gla](https://github.com/SyedAbuTalib/gla)!**
 - 🌱 Currently learning **Angular and Spring Boot**
-- 👯 Looking to collaborate on **any cool web apps**
 - 🤔 Looking for help with **applying to new grad positions during quarantine**
-- 💬 Ask me about **why I made my projects**
+- 💬 Ask me about **my addiction to rock climbing**
 - 📫 How to reach me: **shoot me an email at syedabutalib589@gmail.com**
 - 😄 Pronouns: **he/his**
-- ⚡ Fun fact: **Spent 3 months living in a mansion 😜**
+- ⚡ Fun fact: **I rave 😜**
+- 📝 Resume: [Link](http://abutalib.xyz/resume.pdf)
+
+![Syed's github stats](https://github-readme-stats.vercel.app/api?username=syedabutalib&show_icons=true)
+
+![Visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=syedabutalib.visitor-badge)
