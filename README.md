@@ -1,8 +1,8 @@
 # Hey I'm Syed 👋
 
-- 🌱 Currently learning **Angular and Spring Boot**
+- 🌱 Currently learning **Vue**
 - 🤔 Looking for help with **applying to new grad positions during quarantine**
-- 💬 Ask me about **my addiction to rock climbing**
+- 💬 Ask me about **longboarding**
 - 📫 How to reach me: **shoot me an email at syedabutalib589@gmail.com**
 - 😄 Pronouns: **he/his**
 - ⚡ Fun fact: **I rave 😜**
