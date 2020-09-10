@@ -1,12 +1,10 @@
 # Hey I'm Syed 👋
 
-- 🌱 Currently learning **Vue**
 - 🤔 Looking for help with **applying to new grad positions during quarantine**
-- 💬 Ask me about **longboarding**
+- 💬 Ask me about **raves and festivals**
 - 📫 How to reach me: **shoot me an email at syedabutalib589@gmail.com**
 - 😄 Pronouns: **he/his**
-- ⚡ Fun fact: **I rave 😜**
-- 📝 Resume: [Link](http://abutalib.xyz/resume.pdf)
+- 📝 [Resume](http://abutalib.xyz/resume.pdf)
 
 <!-- [Syed's github stats](https://github-readme-stats.vercel.app/api?username=syedabutalib&show_icons=true) -->
 
