@@ -8,6 +8,6 @@
 - ⚡ Fun fact: **I rave 😜**
 - 📝 Resume: [Link](http://abutalib.xyz/resume.pdf)
 
-![Syed's github stats](https://github-readme-stats.vercel.app/api?username=syedabutalib&show_icons=true)
+<!-- [Syed's github stats](https://github-readme-stats.vercel.app/api?username=syedabutalib&show_icons=true) -->
 
 ![Visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=syedabutalib.visitor-badge)
