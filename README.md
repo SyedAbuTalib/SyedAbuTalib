@@ -1,4 +1,3 @@
-# Hey I'm Syed 👋
+# Hey I'm Syed (he/his) 👋
 
-- 😄 Pronouns: **he/his**
-- 📝 [Resume](http://abutalib.xyz/resume.pdf)
+📝 [Resume](http://abutalib.xyz/resume.pdf)
