@@ -1,3 +1,3 @@
-# Hey I'm Syed (he/his) 👋
+# Hey I'm Syed (he/him/his) 👋
 
 📝 [Resume](http://abutalib.xyz/resume.pdf)
