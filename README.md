@@ -2,4 +2,4 @@
 
 I work at Google!
 
-[Resume](https://syedabutalib.github.io/resume.pdf)
+I make toys that I personally would find useful; feel free to check out [bruh](https://github.com/SyedAbuTalib/bruh), [sytran](https://github.com/SyedAbuTalib/sytran), or [urlke](https://github.com/SyedAbuTalib/urlke) :P
